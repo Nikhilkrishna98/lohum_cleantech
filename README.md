@@ -3,4 +3,8 @@
 name : Nikhil Krishna
 Source Code
 
-![image](https://github.com/Nikhilkrishna98/lohum_cleantech/assets/45559705/7bf2853c-91aa-4586-8748-cd93eac4fc0e)
+
+![Screenshot (60)](https://github.com/Nikhilkrishna98/lohum_cleantech/assets/45559705/b58967be-e91b-48d6-8fba-d89cac8f0ee4)
+
+SAMPLE RESPONSES
+![Screenshot (62)](https://github.com/Nikhilkrishna98/lohum_cleantech/assets/45559705/7351d3cd-aa10-4827-93a9-6d06dde400cf)
