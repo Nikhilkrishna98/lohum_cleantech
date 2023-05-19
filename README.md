@@ -8,3 +8,6 @@ Source Code
 
 SAMPLE RESPONSES
 ![Screenshot (62)](https://github.com/Nikhilkrishna98/lohum_cleantech/assets/45559705/7351d3cd-aa10-4827-93a9-6d06dde400cf)
+
+
+Hosted API: nikhil98.pythonanywhere.com
